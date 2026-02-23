@@ -1,0 +1,18 @@
+Porcentajes:
+
+1er corte 30%
+parcial 14%
+quiz 8%
+talleres 8%
+
+2do corte 35%
+parcial 17%
+quiz 9%
+talleres 9%
+
+3er corte 35%
+parcial 15%
+quiz 5%
+proyecto final 15%
+
+
